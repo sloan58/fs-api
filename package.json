@@ -15,6 +15,7 @@
   "author": "Marty Sloan <marty@karmatek.io>",
   "license": "ISC",
   "dependencies": {
+    "aws-sdk": "^2.511.0",
     "aws-serverless-express": "^3.3.6",
     "express": "^4.17.1",
     "xmlbuilder": "^13.0.2"
