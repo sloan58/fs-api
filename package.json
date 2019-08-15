@@ -1,0 +1,22 @@
+{
+  "name": "fs-api",
+  "version": "1.0.0",
+  "description": "An Express API to proxy FreeSWITCH registration requests",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "FreeSWITCH",
+    "express",
+    "lambda",
+    "claudia"
+  ],
+  "author": "Marty Sloan <marty@karmatek.io>",
+  "license": "ISC",
+  "dependencies": {
+    "aws-serverless-express": "^3.3.6",
+    "express": "^4.17.1",
+    "xmlbuilder": "^13.0.2"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "fs-api-executor",
+    "name": "fs-api",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "gdo4sjdwmb"
+  }
+}
